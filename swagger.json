@@ -2,7 +2,7 @@ swagger: "2.0"
 info:
   title: Aparat API
   description: Sample Aparat API
-  version: 1.0.1
+  version: 1.0.0
 host: 192.168.1.210:5000
 basePath: /
 tags:
