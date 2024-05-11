@@ -3,7 +3,7 @@ info:
   title: Aparat API
   description: Sample Aparat API
   version: 1.0.0
-host: 127.0.0.1:5000
+host: 192.168.10.210:5000
 basePath: /
 tags:
   - name: channels
