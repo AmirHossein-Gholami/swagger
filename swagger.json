@@ -43,7 +43,7 @@ paths:
         200:
           description: OK
   /video:
-    post:
+    get:
       tags:
         - videos
       summary: Returns a list of channels.
